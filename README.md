@@ -34,7 +34,7 @@ O processo iniciou com um conjunto de dados brutos (`GOOG.csv`) contendo o hist�
 * **Carregamento dos Dados:** Importação do arquivo CSV para um DataFrame.
 * **Conversão de Tipos:** Ajuste da coluna `Date` para o formato `datetime` para permitir manipulação de séries temporais.
 * **Preparação para o Looker Studio:** A data foi convertida para o formato `YYYYMMDD` para garantir a compatibilidade e evitar erros de interpretação na plataforma de BI.
-* **Exportação:** O DataFrame limpo e enriquecido foi salvo em um novo arquivo CSV (`GOOGLE_limpo.csv`), pronto para ser consumido pelo Looker Studio.
+* **Exportação:** O DataFrame limpo e enriquecido foi salvo em um novo arquivo Excel (`GOOGLE_limpo.xlsx`), pronto para ser consumido pelo Looker Studio.
 
 ### 2. Engenharia de Features
 
@@ -60,7 +60,7 @@ Com os dados tratados e enriquecidos, um dashboard interativo foi desenvolvido n
 ## 📂 Estrutura do Repositório
 
 ```
-├── GOOGLE_limpo.csv                # Dataset final, limpo e com features, pronto para o BI
+├── GOOGLE_limpo.xlsx                # Dataset final, limpo e com features, pronto para o BI
 ├── google_stock_prices.ipynb       # Notebook com todo o código de limpeza, análise e engenharia de features
 ├── README.md                       # Documentação do projeto (este arquivo)
 └── assets/
