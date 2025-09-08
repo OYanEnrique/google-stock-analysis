@@ -75,11 +75,11 @@ Para replicar a análise contida no Jupyter Notebook, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/OYanEnrique/google-stock-analysis-python-looker.git
+    git clone https://github.com/OYanEnrique/google-stock-analysis.git
     ```
 2.  **Navegue até o diretório:**
     ```bash
-    cd google-stock-analysis-python-looker
+    cd google-stock-analysis
     ```
 3.  **Instale as dependências:**
     ```bash
