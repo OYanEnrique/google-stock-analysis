@@ -8,6 +8,14 @@ Este projeto apresenta uma análise completa e end-to-end dos dados históricos 
 
 O projeto demonstra habilidades em manipulação de dados, análise de séries temporais e criação de visualizações de dados eficazes para suportar a tomada de decisões.
 
+## 📈 Metodologia e Processo
+
+#### • ETL e Engenharia de Features
+Utilizei **Pandas** para limpar os dados, ajustar tipos e criar novas métricas financeiras essenciais como Médias Móveis Simples (SMA 50/200), volume médio diário, alta, baixa e volatilidade para aprofundar a análise.
+
+#### • Visualização de Dados e BI
+Desenvolvi um dashboard dinâmico no **Looker Studio** para apresentar os KPIs e tendências de forma clara, permitindo uma análise interativa dos preços, volumes e indicadores de risco.
+
 **🔗 Acesse o Dashboard Interativo:** [Análise de Ações do Google (Looker Studio)](https://lookerstudio.google.com/reporting/8f839b22-f0f4-4a22-88e2-38b560468476)
 
 * **🔗 Dataset utilizado:** [Kaggle](https://www.kaggle.com/datasets/henryshan/google-stock-price)
@@ -56,6 +64,17 @@ Com os dados tratados e enriquecidos, um dashboard interativo foi desenvolvido n
 * **Filtro Interativo:** Um seletor de período permite que o usuário analise qualquer intervalo de tempo desejado.
 
 ---
+
+## 💡 Principais Aprendizados do Projeto
+
+1.  **Preparação de Dados para BI:** Aprendi na prática a importância da compatibilidade entre sistemas. Foi necessário converter as datas para o formato `YYYYMMDD` em Python para garantir a correta interpretação pelo Looker Studio, um passo crucial para a integridade da análise.
+
+2.  **Conexão entre Código e Análise de Negócio:** O maior desafio não foi apenas calcular as Médias Móveis (SMA), mas traduzir seus cruzamentos em um insight visual claro no dashboard, conectando um conceito de mercado (como o "Golden Cross") diretamente à análise de dados.
+
+3.  **Data Storytelling na Prática:** Estruturei o dashboard para contar uma história, posicionando gráficos de preço, volume e volatilidade de forma a revelar suas correlações. Isso solidificou minha habilidade de transformar dados brutos em uma narrativa visual coesa e de fácil compreensão.
+
+---
+
 
 ## 📂 Estrutura do Repositório
 
