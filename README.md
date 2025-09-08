@@ -9,6 +9,7 @@ Este projeto apresenta uma análise completa e end-to-end dos dados históricos 
 O projeto demonstra habilidades em manipulação de dados, análise de séries temporais e criação de visualizações de dados eficazes para suportar a tomada de decisões.
 
 **🔗 Acesse o Dashboard Interativo:** [Análise de Ações do Google (Looker Studio)](https://lookerstudio.google.com/reporting/8f839b22-f0f4-4a22-88e2-38b560468476)
+
 **🔗 Dataset utilizado:** [Kaggle](https://www.kaggle.com/datasets/henryshan/google-stock-price)
 ---
 
