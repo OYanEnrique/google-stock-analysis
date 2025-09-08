@@ -94,6 +94,6 @@ Para replicar a análise contida no Jupyter Notebook, siga os passos abaixo:
 
 ## 👨‍💻 Autor
 
-* **[Yan Enrique]**
+* **Yan Enrique**
 * **LinkedIn:** [https://www.linkedin.com/in/yanenrique/](https://www.linkedin.com/in/yanenrique/)
 * **GitHub:** [https://github.com/OYanEnrique](https://github.com/OYanEnrique)
