@@ -10,7 +10,7 @@ O projeto demonstra habilidades em manipulação de dados, análise de séries t
 
 **🔗 Acesse o Dashboard Interativo:** [Análise de Ações do Google (Looker Studio)](https://lookerstudio.google.com/reporting/8f839b22-f0f4-4a22-88e2-38b560468476)
 
-**🔗 Dataset utilizado:** [Kaggle](https://www.kaggle.com/datasets/henryshan/google-stock-price)
+* **🔗 Dataset utilizado:** [Kaggle](https://www.kaggle.com/datasets/henryshan/google-stock-price)
 ---
 
 ## 🛠️ Ferramentas e Tecnologias Utilizadas
