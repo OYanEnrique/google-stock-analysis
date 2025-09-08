@@ -1,4 +1,4 @@
-# Análise de Ações do Google (GOOG) com Python e Looker Studio
+# Análise de Ações do Google (GOOG) (2005-2023) com Python e Looker Studio
 
 ![Dashboard de Análise de Ações do Google](./assets/google.png)
 
