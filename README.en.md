@@ -1,4 +1,4 @@
-[Read in Portuguese](README.pt.md) 
+[Read in Portuguese](README.md) 
 
 # The Saga of Google's Stock (GOOG): A Data Journey from 2005 to 2023
 
