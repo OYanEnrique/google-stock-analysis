@@ -1,3 +1,5 @@
+[Read in english](README.en.md) 
+
 # A Saga das Ações do Google (GOOG): Uma Jornada de Dados de 2005 a 2023
 
 ![Dashboard de Análise de Ações do Google](./assets/google.png)
